@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+th{
+    background-color:aqua ;
+}
+
+td, th {
+    border: 1px solid yellow;
+    line-height: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
