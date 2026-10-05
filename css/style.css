@@ -17,3 +17,8 @@ table {
     width: 100%;
     border-collapse: collapse;
 }
+
+ul, ol, dl {
+    line-height: 20px;
+    margin-left: 20px;
+}
