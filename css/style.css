@@ -4,17 +4,19 @@
     box-sizing: border-box;
 }
 
-th{
-    background-color:aqua ;
+th, td {
+    border: 1px solid black;
+    padding: 10px
 }
 
-td, th {
-    border: 1px solid yellow;
-    line-height: 15px;
+th {
+    background-color: orangered;
 }
 
 table {
-    width: 100%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
     border-collapse: collapse;
 }
 
